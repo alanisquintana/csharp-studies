@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\bin\Debug\operators-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\bin\Debug\operators-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\bin\Debug\operators-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\obj\Debug\operators-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\obj\Debug\operators-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\obj\Debug\operators-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\operators-example\operators-example\obj\Debug\operators-example.pdb

@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\bin\Debug\primitive-types-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\bin\Debug\primitive-types-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\bin\Debug\primitive-types-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\obj\Debug\primitive-types-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\obj\Debug\primitive-types-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\obj\Debug\primitive-types-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\primitive-types-example\primitive-types-example\obj\Debug\primitive-types-example.pdb

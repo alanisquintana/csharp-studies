@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\bin\Debug\nested-for-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\bin\Debug\nested-for-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\bin\Debug\nested-for-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\obj\Debug\nested-for-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\obj\Debug\nested-for-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\obj\Debug\nested-for-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\nested-for-example\nested-for-example\obj\Debug\nested-for-example.pdb
