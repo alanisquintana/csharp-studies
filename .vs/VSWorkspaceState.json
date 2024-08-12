@@ -1,11 +1,18 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\lessons",
     "\\lessons\\class-example",
     "\\lessons\\class-example\\class-example",
     "\\lessons\\class-example\\ClassLibrary"
   ],
   "SelectedNode": "\\lessons\\class-example\\ClassLibrary\\Class1.cs",
+=======
+    "\\variables-example",
+    "\\variables-example\\variables-example"
+  ],
+  "SelectedNode": "\\variables-example\\variables-example\\Program.cs",
+>>>>>>> 6c37eaf7005008d45cff140523c550d01c49bb77
   "PreviewInSolutionExplorer": false
 }
