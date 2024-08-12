@@ -1,7 +1,0 @@
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\bin\Debug\console-class-example.exe.config
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\bin\Debug\console-class-example.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\bin\Debug\console-class-example.pdb
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\obj\Debug\console-class-example.csproj.AssemblyReference.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\obj\Debug\console-class-example.csproj.CoreCompileInputs.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\obj\Debug\console-class-example.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\console-class-example\console-class-example\obj\Debug\console-class-example.pdb

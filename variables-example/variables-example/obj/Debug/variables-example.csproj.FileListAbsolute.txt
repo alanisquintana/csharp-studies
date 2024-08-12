@@ -1,7 +1,0 @@
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\bin\Debug\variables-example.exe.config
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\bin\Debug\variables-example.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\bin\Debug\variables-example.pdb
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\obj\Debug\variables-example.csproj.AssemblyReference.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\obj\Debug\variables-example.csproj.CoreCompileInputs.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\obj\Debug\variables-example.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\variables-example\variables-example\obj\Debug\variables-example.pdb

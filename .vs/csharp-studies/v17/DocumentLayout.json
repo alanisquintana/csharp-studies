@@ -3,15 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\class-example\\class-example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lessons\\class-example\\class-example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\console-class-example\\console-class-example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:console-class-example\\console-class-example\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\class-example\\ClassLibrary\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lessons\\class-example\\ClassLibrary\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
->>>>>>> 6c37eaf7005008d45cff140523c550d01c49bb77
     }
   ],
   "DocumentGroupContainers": [
@@ -31,17 +32,29 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\class-example\\class-example\\Program.cs",
+              "RelativeDocumentMoniker": "lessons\\class-example\\class-example\\Program.cs",
+              "ToolTip": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\class-example\\class-example\\Program.cs",
+              "RelativeToolTip": "lessons\\class-example\\class-example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:05:20.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\console-class-example\\console-class-example\\Program.cs",
               "RelativeDocumentMoniker": "console-class-example\\console-class-example\\Program.cs",
               "ToolTip": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\console-class-example\\console-class-example\\Program.cs",
               "RelativeToolTip": "console-class-example\\console-class-example\\Program.cs",
-<<<<<<< HEAD
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T18:57:52.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\class-example\\ClassLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "lessons\\class-example\\ClassLibrary\\Class1.cs",
@@ -49,13 +62,7 @@
               "RelativeToolTip": "lessons\\class-example\\ClassLibrary\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T21:26:16.994Z",
-=======
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAsAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T18:57:52.088Z",
->>>>>>> 6c37eaf7005008d45cff140523c550d01c49bb77
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T21:26:16.994Z"
             }
           ]
         }

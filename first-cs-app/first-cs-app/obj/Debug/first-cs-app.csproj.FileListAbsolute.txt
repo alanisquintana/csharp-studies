@@ -1,7 +1,0 @@
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\bin\Debug\first-cs-app.exe.config
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\bin\Debug\first-cs-app.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\bin\Debug\first-cs-app.pdb
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\obj\Debug\first-cs-app.csproj.AssemblyReference.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\obj\Debug\first-cs-app.csproj.CoreCompileInputs.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\obj\Debug\first-cs-app.exe
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\first-cs-app\first-cs-app\obj\Debug\first-cs-app.pdb
