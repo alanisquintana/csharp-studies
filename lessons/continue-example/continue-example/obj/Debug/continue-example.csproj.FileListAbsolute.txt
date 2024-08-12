@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\bin\Debug\continue-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\bin\Debug\continue-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\bin\Debug\continue-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\obj\Debug\continue-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\obj\Debug\continue-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\obj\Debug\continue-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\continue-example\continue-example\obj\Debug\continue-example.pdb

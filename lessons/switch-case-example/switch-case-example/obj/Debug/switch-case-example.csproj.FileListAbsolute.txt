@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\bin\Debug\switch-case-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\bin\Debug\switch-case-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\bin\Debug\switch-case-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\obj\Debug\switch-case-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\obj\Debug\switch-case-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\obj\Debug\switch-case-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\switch-case-example\switch-case-example\obj\Debug\switch-case-example.pdb

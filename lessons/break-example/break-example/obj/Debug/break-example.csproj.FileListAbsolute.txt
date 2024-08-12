@@ -1,0 +1,7 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\bin\Debug\break-example.exe.config
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\bin\Debug\break-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\bin\Debug\break-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\obj\Debug\break-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\obj\Debug\break-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\obj\Debug\break-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\break-example\break-example\obj\Debug\break-example.pdb
