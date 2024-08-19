@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\lessons",
-    "\\lessons\\class-example",
-    "\\lessons\\class-example\\class-example",
-    "\\lessons\\class-example\\ClassLibrary"
+    "\\lessons\\field-example",
+    "\\lessons\\field-example\\ClassLibrary",
+    "\\lessons\\field-example\\field-example"
   ],
-  "SelectedNode": "\\lessons\\class-example\\class-example\\Program.cs",
+  "SelectedNode": "\\lessons\\field-example\\field-example\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

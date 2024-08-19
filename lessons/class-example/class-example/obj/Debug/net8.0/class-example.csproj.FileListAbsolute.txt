@@ -16,3 +16,4 @@ C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\class-example\cl
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\class-example\class-example\obj\Debug\net8.0\class-example.pdb
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\class-example\class-example\obj\Debug\net8.0\class-example.genruntimeconfig.cache
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\class-example\class-example\obj\Debug\net8.0\ref\class-example.dll
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\class-example\class-example\obj\Debug\net8.0\class-example.sourcelink.json
