@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lessons"
+    "\\lessons",
+    "\\lessons\\field-example",
+    "\\lessons\\field-example\\ClassLibrary",
+    "\\lessons\\field-example\\field-example"
   ],
-  "SelectedNode": "\\lessons\\first-cs-app",
+  "SelectedNode": "\\lessons\\field-example\\field-example.sln",
   "PreviewInSolutionExplorer": false
 }

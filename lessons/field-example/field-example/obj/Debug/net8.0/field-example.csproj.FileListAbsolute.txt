@@ -1,3 +1,9 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.sourcelink.json
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\field-example.exe
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\field-example.deps.json
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\field-example.runtimeconfig.json
@@ -5,12 +11,6 @@ C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\fi
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\field-example.pdb
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\ClassLibrary.dll
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\bin\Debug\net8.0\ClassLibrary.pdb
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.csproj.AssemblyReference.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.AssemblyInfoInputs.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.AssemblyInfo.cs
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.csproj.CoreCompileInputs.cache
-C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.sourcelink.json
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-ex.55C23B72.Up2Date
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\field-example.dll
 C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\field-example\field-example\obj\Debug\net8.0\refint\field-example.dll
