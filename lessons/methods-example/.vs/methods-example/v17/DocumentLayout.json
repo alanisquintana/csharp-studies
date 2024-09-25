@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\methods-example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CD165D-63B7-429C-A890-7479C03F4707}|methods-example.csproj|c:\\users\\nanny\\onedrive\\documentos\\codes\\csharp-studies\\lessons\\methods-example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CD165D-63B7-429C-A890-7479C03F4707}|methods-example.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6627C5AC-D128-4BAB-8E79-EE759E9C2A15}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\nanny\\onedrive\\documentos\\codes\\csharp-studies\\lessons\\methods-example\\classlibrary\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6627C5AC-D128-4BAB-8E79-EE759E9C2A15}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\methods-example\\ClassLibrary\\Classes.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Classes.cs",
+              "ToolTip": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\methods-example\\ClassLibrary\\Classes.cs",
+              "RelativeToolTip": "ClassLibrary\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:50:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\methods-example\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nanny\\OneDrive\\Documentos\\codes\\csharp-studies\\lessons\\methods-example\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:30:41.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

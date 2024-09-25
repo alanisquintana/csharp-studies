@@ -1,0 +1,15 @@
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.sourcelink.json
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\bin\Debug\net8.0\methods-example.exe
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\bin\Debug\net8.0\methods-example.deps.json
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\bin\Debug\net8.0\methods-example.runtimeconfig.json
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\bin\Debug\net8.0\methods-example.dll
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\bin\Debug\net8.0\methods-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.dll
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\refint\methods-example.dll
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.pdb
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\methods-example.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Documentos\codes\csharp-studies\lessons\methods-example\obj\Debug\net8.0\ref\methods-example.dll
